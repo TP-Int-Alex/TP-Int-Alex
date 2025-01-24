@@ -2,7 +2,7 @@
 
 **`Analista de Suporte ERP`**
 
-Me chamo Alex Ranysson da Silva Soares, tenho 21 anos e sou natural de Manaus. Concluí o ensino médio na Escola Prof Francisco de chagas de Souza Albuquerque com o curso técnico em informática. Atualmente, estou cursando Analista de Suporte da Empresa: TAM SUPORTE - TOTVS NORTE. Estou iniciando um projeto para ajudar pessoas que tem dificculdade com acesso a ferramentas tecnologicas e criei um perfil no instagram perfil chamado "[suportetech25](https://www.instagram.com/suportetech25/)".
+Me chamo Alex Ranysson da Silva Soares, tenho 21 anos e sou natural de Manaus. Concluí o ensino médio na Escola Prof Francisco de chagas de Souza Albuquerque com o curso técnico em informática. Atualmente, estou trabalhando como Analista de Suporte da Empresa: TAM SUPORTE - TOTVS NORTE. Estou iniciando um projeto para ajudar pessoas que tem dificculdade com acesso a ferramentas tecnologicas e criei um instagram perfil chamado "[suportetech25](https://www.instagram.com/suportetech25/)".
 
 
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-soares-a0412a1a5/)
@@ -57,4 +57,3 @@ Me chamo Alex Ranysson da Silva Soares, tenho 21 anos e sou natural de Manaus. C
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=TP-Int-Alex&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
