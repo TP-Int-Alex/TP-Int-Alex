@@ -46,7 +46,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   />
 
   
-  ##
+  ###
  
 <div> 
   <a href="https://instagram.com/alex_soares_c" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
