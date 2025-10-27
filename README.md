@@ -1,7 +1,7 @@
-## Oiii eu sou a Alex Ranysson, criadora de conteúdo de programação e tecnologia!
+## Olá me chamo Alex Ranysson, sou Analista de suporte ERP!
 
-
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+Pessoal que veio atrás do **Github Stats:** a API com varias opções baixo,
+mas você pode adicionar a sua própria do **Zero** ou seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
 ---
  ### 🤖 Linguagens e Tecnologias
