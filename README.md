@@ -1,7 +1,8 @@
-## Olá me chamo Alex Ranysson, sou Analista de suporte ERP!
+# Olá, eu sou o Alex Ranysson! 👋
 
-Pessoal que veio atrás do **Github Stats:** a API com varias opções baixo,
-mas você pode adicionar a sua própria do **Zero** ou seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+Sou um profissional de Tecnologia da Informação em constante evolução, atuando como Analista de TI com foco em suporte técnico, gestão de sistemas e melhoria contínua de processos. Possuo experiência com o ERP TOTVS Protheus, contribuindo para a estabilidade e eficiência das operações empresariais.
+
+Atualmente, curso Sistemas de Informação, o que fortalece minha base teórica e amplia minha visão estratégica sobre desenvolvimento, banco de dados e soluções digitais. Tenho grande interesse em inovação, buscando sempre unir conhecimento técnico com criatividade para desenvolver soluções eficientes, modernas e bem estruturadas.
 
 ---
 ## 🛠️ Tecnologias e Ferramentas
