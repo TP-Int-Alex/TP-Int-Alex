@@ -45,16 +45,10 @@ mas você pode adicionar a sua própria do **Zero** ou seguindo esse [tutorial](
   
 </div>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=TP-Int-Alex&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+## 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-soares-a0412a1a5/)
 
   
   ###
