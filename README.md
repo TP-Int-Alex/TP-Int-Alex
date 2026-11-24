@@ -1,173 +1,178 @@
-<!--
-  ALEX RANYSSON | AI FUTURE PROFILE
-  Substitua SEU_USUARIO pelo seu usuário do GitHub.
--->
+ <div align="center">
 
-<div align="center">
+<img src="https://img.icons8.com/3d-fluency/100/artificial-intelligence.png" width="90"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090014,30:240046,70:5A189A,100:00D4FF&text=ALEX%20RANYSSON&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20TECHNOLOGY%20%7C%20INNOVATION&descAlignY=58&descSize=13&animation=fadeIn"/>
+# ALEX RANYSSON
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+universe;IT+Analyst+%7C+Technology+Enthusiast;Exploring+Artificial+Intelligence;Building+the+future+with+technology;Learning+%7C+Creating+%7C+Innovating" />
+### `IT ANALYST | AI ENTHUSIAST | TECHNOLOGY`
 
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%F0%9F%A7%A0;Technology+%26+Innovation+%F0%9F%9A%80;IT+Support+%26+Systems+%F0%9F%92%BB;Always+Learning+%26+Evolving+%E2%9A%A1"/>
 
-<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL%20INTELLIGENCE-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/ROLE-IT%20ANALYST-00BFFF?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/MINDSET-INNOVATION-FF00FF?style=for-the-badge&logo=probot&logoColor=white"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=8A2BE2&style=flat-square&label=PROFILE+VIEWS)](https://github.com/SEU_USUARIO)
 
 </div>
 
 ---
 
-<div align="center">
+## 🧬 `01. ABOUT ME`
 
-# 🧬 ABOUT ME
+<img align="right" src="https://img.icons8.com/3d-fluency/100/robot-2.png" width="115"/>
 
-### Olá! Eu sou Alex Ranysson.
+Olá! Sou **Alex Ranysson**, profissional de Tecnologia da Informação, interessado em inteligência artificial, desenvolvimento e inovação tecnológica.
 
-**Analista de TI | Estudante de Sistemas de Informação | Entusiasta de IA**
+- 💻 Analista de Tecnologia da Informação.
+- 🏢 Experiência com ERP TOTVS Protheus.
+- 🎓 Graduando em Sistemas de Informação.
+- 🧠 Interesse em Inteligência Artificial.
+- ⚙️ Suporte técnico e gestão de sistemas.
+- 🚀 Aprendizado contínuo e inovação.
 
-</div>
+Meu propósito é conectar tecnologia, conhecimento e criatividade para desenvolver soluções inteligentes e eficientes.
 
-Sou profissional de Tecnologia da Informação, apaixonado por inovação, inteligência artificial, desenvolvimento e soluções digitais.
-
-Atualmente atuo como **Analista de TI**, com experiência em suporte técnico, gestão de sistemas, infraestrutura e melhoria contínua de processos.
-
-Tenho experiência com o **ERP TOTVS Protheus**, contribuindo para a estabilidade dos ambientes empresariais e eficiência das operações.
-
-Atualmente curso **Sistemas de Informação**, aprofundando meus conhecimentos em programação, banco de dados, desenvolvimento de software e novas tecnologias.
-
-Meu objetivo é explorar o potencial da Inteligência Artificial, automação e tecnologia para construir soluções cada vez mais inteligentes.
+<br clear="right"/>
 
 ---
 
-# 🤖 AI & TECHNOLOGY UNIVERSE
+## ⚡ `02. TECHNOLOGY STACK`
 
-<div align="center">
+### 💻 Programming
 
-<img src="https://img.icons8.com/3d-fluency/100/artificial-intelligence.png" width="85"/>
-<img src="https://img.icons8.com/3d-fluency/100/robot-2.png" width="85"/>
-<img src="https://img.icons8.com/3d-fluency/100/code.png" width="85"/>
-<img src="https://img.icons8.com/3d-fluency/100/database.png" width="85"/>
-<img src="https://img.icons8.com/3d-fluency/100/cloud.png" width="85"/>
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java&theme=dark" />
 
 </div>
 
-<div align="center">
+### 🗄️ Database & Data
 
-| ÁREA | INTERESSE |
-|:---:|:---|
-| 🧠 | Inteligência Artificial |
-| 🤖 | Automação Inteligente |
-| 💻 | Desenvolvimento de Software |
-| 🗄️ | Banco de Dados e SQL |
-| 🌐 | Desenvolvimento Web |
-| ⚙️ | Infraestrutura e Sistemas |
-| 🏢 | ERP TOTVS Protheus |
-
-</div>
-
----
-
-# ⚡ TECH STACK
-
-### 💻 Programming Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java&theme=dark"/>
-
-</div>
-
-### 🧠 Artificial Intelligence & Data
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-</div>
-
-### 🗄️ Databases
-
-<div align="center">
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=dark"/>
 
+<img src="https://img.icons8.com/3d-fluency/50/database.png" width="42"/>
+
 </div>
 
-### 🛠️ Development Tools & Infrastructure
+### 🤖 Artificial Intelligence
 
-<div align="center">
+<div align="left">
+
+<img src="https://img.icons8.com/3d-fluency/50/artificial-intelligence.png" width="48"/>
+<img src="https://img.icons8.com/3d-fluency/50/brain.png" width="48"/>
+<img src="https://img.icons8.com/3d-fluency/50/processor.png" width="48"/>
+
+<br/>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=flat-square&logo=scikitlearn&logoColor=white)
+
+</div>
+
+### 🛠️ Tools & Infrastructure
+
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,docker&theme=dark"/>
 
 </div>
 
-### 🏢 Enterprise Technology
+### 🏢 Enterprise Systems
+
+![TOTVS](https://img.shields.io/badge/TOTVS%20Protheus-00AEEF?style=for-the-badge)
+![IT Support](https://img.shields.io/badge/IT%20Support-24292e?style=for-the-badge)
+![ERP](https://img.shields.io/badge/ERP%20Systems-6A0DAD?style=for-the-badge)
+
+---
+
+## 🧠 `03. AREAS OF INTEREST`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TOTVS%20Protheus-00AEEF?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/IT%20Support-005bea?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ERP%20Systems-6A0DAD?style=for-the-badge"/>
+| ICON | TECHNOLOGY | FOCUS |
+|:---:|:---|:---|
+| <img src="https://img.icons8.com/3d-fluency/40/artificial-intelligence.png" width="35"/> | Artificial Intelligence | IA Generativa |
+| <img src="https://img.icons8.com/3d-fluency/40/code.png" width="35"/> | Programming | Desenvolvimento |
+| <img src="https://img.icons8.com/3d-fluency/40/database.png" width="35"/> | Database | SQL e Dados |
+| <img src="https://img.icons8.com/3d-fluency/40/cloud.png" width="35"/> | Cloud Computing | Infraestrutura |
+| <img src="https://img.icons8.com/3d-fluency/40/robot-2.png" width="35"/> | Automation | Processos Inteligentes |
 
 </div>
 
 ---
 
-# 🔬 CURRENTLY EXPLORING
+## 📚 `04. CURRENTLY LEARNING`
 
-<div align="center">
-
-<img src="https://img.icons8.com/3d-fluency/100/artificial-intelligence.png" width="75"/>
-<img src="https://img.icons8.com/3d-fluency/100/brain.png" width="75"/>
-<img src="https://img.icons8.com/3d-fluency/100/processor.png" width="75"/>
-<img src="https://img.icons8.com/3d-fluency/100/cloud.png" width="75"/>
-
-</div>
-
-- Inteligência Artificial e modelos generativos.
-- Python aplicado à automação.
-- Engenharia de software.
-- Banco de dados e SQL.
-- Desenvolvimento de aplicações inteligentes.
-- Infraestrutura e computação em nuvem.
-- Integração de sistemas e APIs.
+- [ ] Inteligência Artificial e IA Generativa.
+- [ ] Python para automação.
+- [ ] Desenvolvimento de aplicações.
+- [ ] Banco de dados e SQL.
+- [ ] Integração de APIs.
+- [ ] Machine Learning.
+- [ ] Computação em nuvem.
 
 ---
 
-# 📊 GITHUB ANALYTICS
+## 📊 `05. GITHUB ANALYTICS`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=8A2BE2&text_color=FFFFFF"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 <br/>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=00D4FF&currStreakLabel=00D4FF"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GITHUB TROPHIES
+## 🏆 `06. GITHUB TROPHIES`
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=discord&no-frame=true&no-bg=true&margin-w=5&column=6"/>
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=5"/>
 
 </div>
 
 ---
 
-# 🌐 CONNECT WITH ME
+## 🌐 `07. CONNECT WITH ME`
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/alex-soares-a0412a1a5/">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/alex_soares_c">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/channels/1224721331770101832/1224721333124857919">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="mailto:suporte.ttech2025@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://img.icons8.com/3d-fluency/80/rocket.png" width="65"/>
+
+### `THE FUTURE IS INTELLIGENT`
+
+**Transformando conhecimento em inovação.**
+
+`TECHNOLOGY` • `ARTIFICIAL INTELLIGENCE` • `INNOVATION`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:240046,100:00D4FF&height=4&section=footer" width="100%"/>
+
+</div>
