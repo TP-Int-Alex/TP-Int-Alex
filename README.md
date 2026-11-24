@@ -1,152 +1,173 @@
-# 👨‍💻 Alex Ranysson | IT Analyst & Technology Enthusiast
+<!--
+  ALEX RANYSSON | AI FUTURE PROFILE
+  Substitua SEU_USUARIO pelo seu usuário do GitHub.
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:005bea,100:00d4ff&height=200&section=header&text=Alex%20Ranysson&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technology%20%7C%20Innovation%20%7C%20Development&descAlignY=58&descSize=17" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090014,30:240046,70:5A189A,100:00D4FF&text=ALEX%20RANYSSON&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20TECHNOLOGY%20%7C%20INNOVATION&descAlignY=58&descSize=13&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Analista+de+TI+%F0%9F%92%BB;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%F0%9F%8E%93;Entusiasta+de+Tecnologia+%F0%9F%9A%80;Apaixonado+por+Inova%C3%A7%C3%A3o+%F0%9F%92%A1" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+universe;IT+Analyst+%7C+Technology+Enthusiast;Exploring+Artificial+Intelligence;Building+the+future+with+technology;Learning+%7C+Creating+%7C+Innovating" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL%20INTELLIGENCE-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROLE-IT%20ANALYST-00BFFF?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/MINDSET-INNOVATION-FF00FF?style=for-the-badge&logo=probot&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🧑‍🚀 Sobre mim
+<div align="center">
 
-Olá! Sou **Alex Ranysson**, profissional de Tecnologia da Informação, apaixonado por inovação, infraestrutura, sistemas e desenvolvimento de soluções tecnológicas.
+# 🧬 ABOUT ME
 
-Atualmente atuo como **Analista de TI**, trabalhando com suporte técnico, gestão de sistemas, resolução de problemas e melhoria contínua dos processos tecnológicos.
+### Olá! Eu sou Alex Ranysson.
 
-Tenho experiência com o **ERP TOTVS Protheus**, contribuindo para a eficiência operacional, manutenção e estabilidade dos sistemas empresariais.
+**Analista de TI | Estudante de Sistemas de Informação | Entusiasta de IA**
 
-🎓 Atualmente curso **Sistemas de Informação**, ampliando meus conhecimentos em programação, banco de dados, desenvolvimento de software e arquitetura de sistemas.
+</div>
 
-💡 Meu objetivo é evoluir constantemente na área de tecnologia, explorar novas ferramentas e transformar desafios em soluções inteligentes.
+Sou profissional de Tecnologia da Informação, apaixonado por inovação, inteligência artificial, desenvolvimento e soluções digitais.
+
+Atualmente atuo como **Analista de TI**, com experiência em suporte técnico, gestão de sistemas, infraestrutura e melhoria contínua de processos.
+
+Tenho experiência com o **ERP TOTVS Protheus**, contribuindo para a estabilidade dos ambientes empresariais e eficiência das operações.
+
+Atualmente curso **Sistemas de Informação**, aprofundando meus conhecimentos em programação, banco de dados, desenvolvimento de software e novas tecnologias.
+
+Meu objetivo é explorar o potencial da Inteligência Artificial, automação e tecnologia para construir soluções cada vez mais inteligentes.
 
 ---
 
-## 🧠 Áreas de conhecimento
+# 🤖 AI & TECHNOLOGY UNIVERSE
 
 <div align="center">
 
-| Área | Especialidade |
+<img src="https://img.icons8.com/3d-fluency/100/artificial-intelligence.png" width="85"/>
+<img src="https://img.icons8.com/3d-fluency/100/robot-2.png" width="85"/>
+<img src="https://img.icons8.com/3d-fluency/100/code.png" width="85"/>
+<img src="https://img.icons8.com/3d-fluency/100/database.png" width="85"/>
+<img src="https://img.icons8.com/3d-fluency/100/cloud.png" width="85"/>
+
+</div>
+
+<div align="center">
+
+| ÁREA | INTERESSE |
 |:---:|:---|
-| 💻 | Suporte Técnico e Help Desk |
-| 🖥️ | Gestão de Sistemas e Infraestrutura |
-| 🏢 | ERP TOTVS Protheus |
+| 🧠 | Inteligência Artificial |
+| 🤖 | Automação Inteligente |
+| 💻 | Desenvolvimento de Software |
 | 🗄️ | Banco de Dados e SQL |
 | 🌐 | Desenvolvimento Web |
-| ⚙️ | Automação e Melhoria de Processos |
+| ⚙️ | Infraestrutura e Sistemas |
+| 🏢 | ERP TOTVS Protheus |
 
 </div>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+# ⚡ TECH STACK
 
-### 💻 Desenvolvimento
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java&theme=dark" />
-
-</div>
-
-### 🗄️ Banco de dados
+### 💻 Programming Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java&theme=dark"/>
 
 </div>
 
-### ⚙️ Ferramentas e ambientes
+### 🧠 Artificial Intelligence & Data
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,docker&theme=dark" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
 </div>
 
-### 🏢 Sistemas empresariais
+### 🗄️ Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=dark"/>
+
+</div>
+
+### 🛠️ Development Tools & Infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,docker&theme=dark"/>
+
+</div>
+
+### 🏢 Enterprise Technology
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/TOTVS%20Protheus-00AEEF?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/ERP-Enterprise%20Systems-24292e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IT-Support-005bea?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IT%20Support-005bea?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ERP%20Systems-6A0DAD?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🎯 Atualmente estudando
+# 🔬 CURRENTLY EXPLORING
 
 <div align="center">
 
-<img src="https://img.icons8.com/3d-fluency/94/source-code.png" width="75"/>
-<img src="https://img.icons8.com/3d-fluency/94/database.png" width="75"/>
-<img src="https://img.icons8.com/3d-fluency/94/artificial-intelligence.png" width="75"/>
-<img src="https://img.icons8.com/3d-fluency/94/cloud.png" width="75"/>
+<img src="https://img.icons8.com/3d-fluency/100/artificial-intelligence.png" width="75"/>
+<img src="https://img.icons8.com/3d-fluency/100/brain.png" width="75"/>
+<img src="https://img.icons8.com/3d-fluency/100/processor.png" width="75"/>
+<img src="https://img.icons8.com/3d-fluency/100/cloud.png" width="75"/>
 
 </div>
 
-- Desenvolvimento de software.
-- Banco de dados e consultas SQL.
-- Linguagens de programação.
-- Infraestrutura e administração de sistemas.
-- Automação de processos.
-- Inteligência Artificial e novas tecnologias.
+- Inteligência Artificial e modelos generativos.
+- Python aplicado à automação.
+- Engenharia de software.
+- Banco de dados e SQL.
+- Desenvolvimento de aplicações inteligentes.
+- Infraestrutura e computação em nuvem.
+- Integração de sistemas e APIs.
 
 ---
 
-## 📊 Estatísticas do GitHub
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=8A2BE2&text_color=FFFFFF"/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
 
 <br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img width="85%" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=00D4FF&currStreakLabel=00D4FF"/>
 
 </div>
 
 ---
 
-## 🌐 Conecte-se comigo
+# 🏆 GITHUB TROPHIES
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/alex-soares-a0412a1a5/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/alex_soares_c" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://discord.com/channels/1224721331770101832/1224721333124857919" target="_blank">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="mailto:suporte.ttech2025@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=discord&no-frame=true&no-bg=true&margin-w=5&column=6"/>
 
 </div>
 
 ---
 
+# 🌐 CONNECT WITH ME
+
 <div align="center">
 
-### 🚀 Transformando conhecimento em soluções tecnológicas.
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=VISUALIZAÇÕES%20DO%20PERFIL&color=005bea&style=for-the-badge" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:005bea,100:00d4ff&height=120&section=footer"/>
-
-**"A tecnologia move o mundo, mas o conhecimento transforma o futuro."**
-
-</div>
+<a href="https://www.linkedin.com/in/alex-soares-a0412a1a5/">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5
